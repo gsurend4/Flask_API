@@ -1,0 +1,11 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "",
+            "envManager": "ms-python.python:system",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "python.pythonPath": "/Users/gsurend4/Library/CloudStorage/OneDrive-azureford/SELF/Learning/API/flask_API/venv/flask_venv/bin/python",
+    "python.defaultInterpreterPath": "/Users/gsurend4/Library/CloudStorage/OneDrive-azureford/SELF/Learning/API/flask_API/venv/flask_venv/bin/python"
+}
